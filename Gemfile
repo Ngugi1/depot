@@ -6,7 +6,7 @@ gem "rails", "~> 8.0.5", ">= 8.0.5.1"
 # The modern asset pipeline for Rails [https://github.com/rails/propshaft]
 gem "propshaft"
 #json 
-gem 'json', '~> 2.7.2'
+gem 'json', '~> 3.0.2'
 # Use sqlite3 as the database for Active Record
 gem "sqlite3", ">= 2.1"
 # Use the Puma web server [https://github.com/puma/puma]
