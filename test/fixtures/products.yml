@@ -9,3 +9,8 @@ two:
   title: MyString
   description: MyText
   price: 9.99
+
+pragprog:
+ title: Pragmatic Programmer
+ description: A book about programming
+ price: 39.99

@@ -1,0 +1,1 @@
+blob: <%= ActiveStorage::FixtureSet.blob filename: 'cprpo.png'%>

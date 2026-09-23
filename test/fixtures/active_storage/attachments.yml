@@ -1,0 +1,14 @@
+one: 
+ name: image
+ record: one (Product)
+ blob: blob
+
+two:
+ name: image
+ record: two (Product)
+ blob: blob
+
+pragprog:
+ name: image
+ record: pragprog (Product)
+ blob: blob
