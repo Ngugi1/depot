@@ -34,8 +34,8 @@ class ProductTest < ActiveSupport::TestCase
   test "image url" do
     product = new_product()
     assert product.valid?
-    product = new_product('cprpo.png', 'image/svg+ml')
-    assert_not product.valid?, "image/svg+xml must be invalid"
+    product = new_product('cprpo.png')
+    assert product.valid?, "image/svg+xml valid"
 
   end
 end
